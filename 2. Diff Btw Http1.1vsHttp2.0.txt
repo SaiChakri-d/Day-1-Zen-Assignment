@@ -1,4 +1,4 @@
-﻿DIFFERENCES BETWEEN HTTP 1.1 AND HTTP 2.0
+2. DIFFERENCES BETWEEN HTTP 1.1 AND HTTP 2.0
 
 HTTP - A protocol that clients (such as web browsers) use to request resources from servers (such as web servers).
 
